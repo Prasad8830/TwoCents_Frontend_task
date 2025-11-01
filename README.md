@@ -136,16 +136,6 @@ WebSocket URL format:
 wss://stream.binance.com:9443/ws/{symbol}@aggTrade/{symbol}@depth@100ms
 ```
 
-## 🚀 Deployment
-
-This project can be easily deployed to Vercel:
-
-```bash
-npm run build
-```
-
-Or deploy directly to Vercel by connecting your GitHub repository.
-
 ## 📝 Available Scripts
 
 - `npm run dev` - Start development server
